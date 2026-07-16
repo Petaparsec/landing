@@ -1,2 +1,0 @@
-# landing
-Petaparsec landing page
